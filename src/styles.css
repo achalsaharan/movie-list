@@ -1,0 +1,10 @@
+.App {
+  font-family: helvatica;
+  margin: auto;
+  max-width: 600px;
+}
+
+body {
+  background-color: #333;
+  color: #eee;
+}
